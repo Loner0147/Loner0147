@@ -5,5 +5,5 @@
 📫 Reach me:
 - Live-Portfolio: https://web-portfolio-silk-eight.vercel.app
  - LinkedIn: https://linkedin.com/in/solomonlina
- - Email: loner0360@gmail.com
+ - Email: loner0360@gmail.com, solomonlina014@gmail.com
 
