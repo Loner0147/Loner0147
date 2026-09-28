@@ -1,6 +1,6 @@
 # Hi, I'm Lina 👋
 
-🔭 Backend Developer and Script Writer. I enjoy writing scripts, building backend applications and learning new technologies.
+Backend Developer and Script Writer. I enjoy writing scripts, building backend applications and learning new technologies.
 
 📫 Reach me:
 - Live-Portfolio: https://web-portfolio-silk-eight.vercel.app
