@@ -6,5 +6,5 @@ I’m skilled in Java, Spring framework, HTML, CSS, Java script, MongoDB, Postgr
 📫 Reach me:
 - Live-Portfolio: https://web-portfolio-silk-eight.vercel.app
  - LinkedIn: https://linkedin.com/in/solomonlina
- - Email: loner0360@gmail.com, solomonlina014@gmail.com
+ - Email: solomonlina014@gmail.com
 
